@@ -4,7 +4,7 @@
 ### 기본 style
 ><img width="485" height="229" alt="스크린샷 2026-07-27 오전 11 43 52" src="https://github.com/user-attachments/assets/1cd04c24-ae84-4b81-96db-478ae3a88b97" />
 
-```
+```javascript
 lets(
   d, dateBetween(prop("마감일"), today(), "days"),
   
